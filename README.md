@@ -23,6 +23,16 @@ I combine project management methodology with hands-on web development experienc
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### 🤖 AI Tooling & Workflow
+
+| Domain | Tools | Focus |
+| :--- | :--- | :--- |
+| **Engineering & AI** | Claude | Core logic, AI engineering, system prompts |
+| **Front-End Dev** | Antigravity | Rapid UI buildout & component workflow |
+| **Design & UI/UX** | Framer · Figma AI · Claude | Hybrid interface design & interactive prototypes |
+| **Media Creation** | Google AI Studio · Gemini | Video workflows & generative image editing |
+| **Learning & Research** | Gemini (NotebookLM) | Structured study, synthesis & documentation |
+
 ---
 
 ### 📌 What I Bring to Technical Projects
