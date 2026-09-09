@@ -23,6 +23,8 @@ I combine project management methodology with hands-on web development experienc
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+
 ### 🤖 AI Tooling & Workflow
 
 | Domain | Tools | Focus |
